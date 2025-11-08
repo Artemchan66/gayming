@@ -1,0 +1,2879 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.1f5",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "thickmonkey",
+        "californiacookies",
+        "stronghuikush",
+        "extremepunch",
+        "thickcrack",
+        "ultraslime",
+        "miraclesplooge",
+        "purpleexpress",
+        "aspensmegma",
+        "fatcum",
+        "ultrastronghuikush",
+        "granddaddypiss",
+        "darkbud",
+        "purpleslime",
+        "bananapunch",
+        "strawberrydurkle",
+        "miraclebud",
+        "lastink",
+        "bigghost",
+        "weddingpunch",
+        "fruityfruit",
+        "californiasmegma",
+        "stinkycake",
+        "gorilladurkle",
+        "strawberryshart",
+        "granddaddyfuel",
+        "hairysmegma",
+        "afghancrystal",
+        "granddaddydeath",
+        "tokyourkle",
+        "fruitymonkey",
+        "tokyocrystal",
+        "секснапляже",
+        "californiathunderfuck",
+        "myass",
+        "blyadskayasuka",
+        "strawberrygrool",
+        "granddaddyghost",
+        "shinyrhino",
+        "cocaine",
+        "meth"
+    ],
+    "ListedProducts": [
+        "blyadskayasuka",
+        "cocaine"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "ogkush",
+            "Mixer": "cuke",
+            "Output": "thickmonkey"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "cuke",
+            "Output": "californiacookies"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "viagor",
+            "Output": "stronghuikush"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "mouthwash",
+            "Output": "extremepunch"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "donut",
+            "Output": "thickcrack"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "paracetamol",
+            "Output": "ultraslime"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "flumedicine",
+            "Output": "miraclesplooge"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "gasoline",
+            "Output": "purpleexpress"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "flumedicine",
+            "Output": "aspensmegma"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "mouthwash",
+            "Output": "fatcum"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "viagor",
+            "Output": "ultrastronghuikush"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "donut",
+            "Output": "granddaddypiss"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "paracetamol",
+            "Output": "darkbud"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "banana",
+            "Output": "purpleslime"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "granddaddypurple",
+            "Output": "bananapunch"
+        },
+        {
+            "Product": "viagor",
+            "Mixer": "granddaddypurple",
+            "Output": "strawberrydurkle"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "granddaddypurple",
+            "Output": "miraclebud"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "granddaddypurple",
+            "Output": "lastink"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "granddaddypurple",
+            "Output": "bigghost"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "stronghuikush",
+            "Output": "weddingpunch"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "stronghuikush",
+            "Output": "fruityfruit"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "stronghuikush",
+            "Output": "californiasmegma"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "stronghuikush",
+            "Output": "stinkycake"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "stronghuikush",
+            "Output": "gorilladurkle"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "granddaddypurple",
+            "Output": "strawberryshart"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "chili",
+            "Output": "granddaddyfuel"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "megabean",
+            "Output": "hairysmegma"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "motoroil",
+            "Output": "afghancrystal"
+        },
+        {
+            "Product": "californiacookies",
+            "Mixer": "chili",
+            "Output": "granddaddydeath"
+        },
+        {
+            "Product": "granddaddydeath",
+            "Mixer": "mouthwash",
+            "Output": "tokyourkle"
+        },
+        {
+            "Product": "tokyourkle",
+            "Mixer": "viagor",
+            "Output": "fruitymonkey"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "addy",
+            "Output": "californiathunderfuck"
+        },
+        {
+            "Product": "californiathunderfuck",
+            "Mixer": "viagor",
+            "Output": "myass"
+        },
+        {
+            "Product": "myass",
+            "Mixer": "horsesemen",
+            "Output": "blyadskayasuka"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "viagor",
+            "Output": "strawberrygrool"
+        },
+        {
+            "Product": "strawberrygrool",
+            "Mixer": "horsesemen",
+            "Output": "granddaddyghost"
+        },
+        {
+            "Product": "granddaddyghost",
+            "Mixer": "addy",
+            "Output": "shinyrhino"
+        },
+        {
+            "Product": "myass",
+            "Mixer": "viagor",
+            "Output": "myass"
+        },
+        {
+            "Product": "granddaddyfuel",
+            "Mixer": "mouthwash",
+            "Output": "tokyocrystal"
+        },
+        {
+            "Product": "iodine",
+            "Mixer": "fruitymonkey",
+            "Output": "секснапляже"
+        },
+        {
+            "Product": "tokyourkle",
+            "Mixer": "mouthwash",
+            "Output": "tokyourkle"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 50
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 45
+        },
+        {
+            "String": "greencrack",
+            "Int": 43
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 44
+        },
+        {
+            "String": "meth",
+            "Int": 80
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "thickmonkey",
+            "Int": 46
+        },
+        {
+            "String": "californiacookies",
+            "Int": 65
+        },
+        {
+            "String": "stronghuikush",
+            "Int": 70
+        },
+        {
+            "String": "extremepunch",
+            "Int": 50
+        },
+        {
+            "String": "thickcrack",
+            "Int": 50
+        },
+        {
+            "String": "ultraslime",
+            "Int": 48
+        },
+        {
+            "String": "miraclesplooge",
+            "Int": 49
+        },
+        {
+            "String": "purpleexpress",
+            "Int": 41
+        },
+        {
+            "String": "aspensmegma",
+            "Int": 52
+        },
+        {
+            "String": "fatcum",
+            "Int": 53
+        },
+        {
+            "String": "ultrastronghuikush",
+            "Int": 59
+        },
+        {
+            "String": "granddaddypiss",
+            "Int": 52
+        },
+        {
+            "String": "darkbud",
+            "Int": 43
+        },
+        {
+            "String": "purpleslime",
+            "Int": 57
+        },
+        {
+            "String": "bananapunch",
+            "Int": 51
+        },
+        {
+            "String": "strawberrydurkle",
+            "Int": 60
+        },
+        {
+            "String": "miraclebud",
+            "Int": 52
+        },
+        {
+            "String": "lastink",
+            "Int": 55
+        },
+        {
+            "String": "bigghost",
+            "Int": 54
+        },
+        {
+            "String": "weddingpunch",
+            "Int": 80
+        },
+        {
+            "String": "fruityfruit",
+            "Int": 65
+        },
+        {
+            "String": "californiasmegma",
+            "Int": 63
+        },
+        {
+            "String": "stinkycake",
+            "Int": 56
+        },
+        {
+            "String": "gorilladurkle",
+            "Int": 60
+        },
+        {
+            "String": "strawberryshart",
+            "Int": 50
+        },
+        {
+            "String": "granddaddyfuel",
+            "Int": 53
+        },
+        {
+            "String": "hairysmegma",
+            "Int": 52
+        },
+        {
+            "String": "afghancrystal",
+            "Int": 52
+        },
+        {
+            "String": "granddaddydeath",
+            "Int": 61
+        },
+        {
+            "String": "tokyourkle",
+            "Int": 71
+        },
+        {
+            "String": "fruitymonkey",
+            "Int": 100
+        },
+        {
+            "String": "tokyocrystal",
+            "Int": 64
+        },
+        {
+            "String": "секснапляже",
+            "Int": 120
+        },
+        {
+            "String": "californiathunderfuck",
+            "Int": 101
+        },
+        {
+            "String": "myass",
+            "Int": 133
+        },
+        {
+            "String": "blyadskayasuka",
+            "Int": 200
+        },
+        {
+            "String": "strawberrygrool",
+            "Int": 102
+        },
+        {
+            "String": "granddaddyghost",
+            "Int": 139
+        },
+        {
+            "String": "shinyrhino",
+            "Int": 168
+        }
+    ],
+    "FavouritedProducts": [
+        "fruitymonkey",
+        "blyadskayasuka",
+        "myass",
+        "californiathunderfuck",
+        "cocaine"
+    ],
+    "CreatedWeed": [
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Thick Monkey",
+            "ID": "thickmonkey",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "energizing"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 153,
+                    "g": 164,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 133,
+                    "g": 140,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "California Cookies",
+            "ID": "californiacookies",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "energizing"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 138,
+                    "g": 174,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 120,
+                    "g": 148,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "STRONG HUI KUSH",
+            "ID": "stronghuikush",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 189,
+                    "b": 105,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 149,
+                    "g": 156,
+                    "b": 93,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Extreme Punch",
+            "ID": "extremepunch",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "balding"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 161,
+                    "g": 168,
+                    "b": 92,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 132,
+                    "g": 145,
+                    "b": 87,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Thick Crack",
+            "ID": "thickcrack",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "caloriedense"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 158,
+                    "g": 149,
+                    "b": 127,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 130,
+                    "g": 136,
+                    "b": 104,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Ultra Slime",
+            "ID": "ultraslime",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sneaky"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 132,
+                    "g": 147,
+                    "b": 103,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 117,
+                    "g": 135,
+                    "b": 92,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Miracle Splooge",
+            "ID": "miraclesplooge",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 121,
+                    "g": 134,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 128,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Purple Express",
+            "ID": "purpleexpress",
+            "DrugType": 0,
+            "Properties": [
+                "Euphoric",
+                "toxic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 120,
+                    "b": 77,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 142,
+                    "g": 149,
+                    "b": 81,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 128,
+                    "g": 134,
+                    "b": 79,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 96,
+                    "b": 61,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Aspen Smegma",
+            "ID": "aspensmegma",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 116,
+                    "g": 134,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 140,
+                    "b": 90,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Fat Cum",
+            "ID": "fatcum",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "balding"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 154,
+                    "g": 168,
+                    "b": 79,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 131,
+                    "g": 157,
+                    "b": 80,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "ULTRA STRONG HUI KUSH",
+            "ID": "ultrastronghuikush",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 187,
+                    "g": 189,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 148,
+                    "g": 167,
+                    "b": 84,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Granddaddy Piss",
+            "ID": "granddaddypiss",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "caloriedense"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 153,
+                    "g": 149,
+                    "b": 118,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 131,
+                    "g": 147,
+                    "b": 99,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Dark Bud",
+            "ID": "darkbud",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "sneaky"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 78,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 116,
+                    "b": 98,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 121,
+                    "g": 107,
+                    "b": 88,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 79,
+                    "b": 62,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Purple Slime",
+            "ID": "purpleslime",
+            "DrugType": 0,
+            "Properties": [
+                "gingeritis",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 139,
+                    "g": 110,
+                    "b": 61,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 228,
+                    "g": 142,
+                    "b": 113,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 183,
+                    "g": 126,
+                    "b": 87,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 111,
+                    "g": 88,
+                    "b": 48,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Banana Punch",
+            "ID": "bananapunch",
+            "DrugType": 0,
+            "Properties": [
+                "gingeritis",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 111,
+                    "b": 87,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 109,
+                    "g": 99,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Strawberry Durkle",
+            "ID": "strawberrydurkle",
+            "DrugType": 0,
+            "Properties": [
+                "sedating",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 153,
+                    "g": 111,
+                    "b": 105,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 118,
+                    "g": 99,
+                    "b": 100,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Miracle Bud",
+            "ID": "miraclebud",
+            "DrugType": 0,
+            "Properties": [
+                "sneaky",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 110,
+                    "g": 108,
+                    "b": 103,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 96,
+                    "g": 98,
+                    "b": 99,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "LA Stink",
+            "ID": "lastink",
+            "DrugType": 0,
+            "Properties": [
+                "sedating",
+                "balding"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 128,
+                    "g": 109,
+                    "b": 93,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 105,
+                    "g": 98,
+                    "b": 94,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Big Ghost",
+            "ID": "bigghost",
+            "DrugType": 0,
+            "Properties": [
+                "sedating",
+                "caloriedense"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 110,
+                    "b": 128,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 109,
+                    "g": 99,
+                    "b": 111,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Wedding Punch",
+            "ID": "weddingpunch",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "energizing",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 138,
+                    "g": 174,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 120,
+                    "g": 148,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Fruity Fruit",
+            "ID": "fruityfruit",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sedating",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 121,
+                    "g": 134,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 128,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "California Smegma",
+            "ID": "californiasmegma",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "gingeritis",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 158,
+                    "g": 150,
+                    "b": 86,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 130,
+                    "g": 136,
+                    "b": 84,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Stinky Cake",
+            "ID": "stinkycake",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "toxic",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 126,
+                    "g": 153,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 114,
+                    "g": 138,
+                    "b": 85,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Gorilla Durkle",
+            "ID": "gorilladurkle",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sneaky",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 132,
+                    "g": 147,
+                    "b": 103,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 117,
+                    "g": 135,
+                    "b": 92,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Strawberry Shart",
+            "ID": "strawberryshart",
+            "DrugType": 0,
+            "Properties": [
+                "munchies",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 101,
+                    "b": 72,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 143,
+                    "g": 141,
+                    "b": 134,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 124,
+                    "g": 121,
+                    "b": 103,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 80,
+                    "b": 57,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Granddaddy Fuel",
+            "ID": "granddaddyfuel",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "spicy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 177,
+                    "g": 156,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 140,
+                    "g": 139,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Hairy Smegma",
+            "ID": "hairysmegma",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "foggy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 154,
+                    "g": 177,
+                    "b": 130,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 128,
+                    "g": 150,
+                    "b": 106,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Afghan Crystal",
+            "ID": "afghancrystal",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "slippery"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 150,
+                    "g": 191,
+                    "b": 154,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 126,
+                    "g": 157,
+                    "b": 118,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Granddaddy Death",
+            "ID": "granddaddydeath",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "energizing",
+                "spicy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 138,
+                    "g": 174,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 120,
+                    "g": 148,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Tokyo Urkle",
+            "ID": "tokyourkle",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "energizing",
+                "balding",
+                "spicy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 138,
+                    "g": 174,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 120,
+                    "g": 148,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Fruity Monkey",
+            "ID": "fruitymonkey",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "energizing",
+                "balding",
+                "spicy",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 138,
+                    "g": 174,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 120,
+                    "g": 148,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Tokyo Crystal",
+            "ID": "tokyocrystal",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "balding",
+                "spicy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 177,
+                    "g": 156,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 140,
+                    "g": 139,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Секс на пляже",
+            "ID": "секснапляже",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "balding",
+                "spicy",
+                "jennerising",
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 154,
+                    "g": 168,
+                    "b": 79,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 131,
+                    "g": 157,
+                    "b": 80,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        }
+    ],
+    "CreatedMeth": [
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "California Thunderfuck",
+            "ID": "californiathunderfuck",
+            "DrugType": 1,
+            "Properties": [
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 179,
+                    "b": 213,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 207,
+                    "b": 229,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "MyASS",
+            "ID": "myass",
+            "DrugType": 1,
+            "Properties": [
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 179,
+                    "b": 213,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 160,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "BLYADSKAYA SUKA",
+            "ID": "blyadskayasuka",
+            "DrugType": 1,
+            "Properties": [
+                "tropicthunder",
+                "electrifying",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 107,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 170,
+                    "g": 180,
+                    "b": 163,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Strawberry Grool",
+            "ID": "strawberrygrool",
+            "DrugType": 1,
+            "Properties": [
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 107,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 207,
+                    "b": 163,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Granddaddy Ghost",
+            "ID": "granddaddyghost",
+            "DrugType": 1,
+            "Properties": [
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 107,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 188,
+                    "b": 84,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Shiny Rhino",
+            "ID": "shinyrhino",
+            "DrugType": 1,
+            "Properties": [
+                "thoughtprovoking",
+                "tropicthunder",
+                "electrifying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 107,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 160,
+                    "a": 255
+                }
+            }
+        }
+    ],
+    "CreatedCocaine": [],
+    "ContractReceipts": [
+        {
+            "ReceiptId": 1942586373,
+            "CompletedBy": 1,
+            "CustomerId": "ludwig_meyer",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 1524
+            },
+            "Items": [
+                {
+                    "String": "granddaddydeath",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddydeath",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddydeath",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddydeath",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 478.5
+        },
+        {
+            "ReceiptId": -1716200497,
+            "CompletedBy": 1,
+            "CustomerId": "chloe_bowers",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 1613
+            },
+            "Items": [],
+            "AmountPaid": 295.0
+        },
+        {
+            "ReceiptId": -599866738,
+            "CompletedBy": 1,
+            "CustomerId": "pearl_moore",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 1615
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 0.0
+        },
+        {
+            "ReceiptId": -16119243,
+            "CompletedBy": 1,
+            "CustomerId": "kathy_henderson",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 1819
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 790.5
+        },
+        {
+            "ReceiptId": 704498237,
+            "CompletedBy": 1,
+            "CustomerId": "karen_kennedy",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 1820
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 793.75
+        },
+        {
+            "ReceiptId": -1505974936,
+            "CompletedBy": 0,
+            "CustomerId": "marco_baron",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 1909
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 4
+                }
+            ],
+            "AmountPaid": 1046.5
+        },
+        {
+            "ReceiptId": -1915759629,
+            "CompletedBy": 0,
+            "CustomerId": "carl_bundy",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 2001
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                },
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 1280.0
+        },
+        {
+            "ReceiptId": 12003584,
+            "CompletedBy": 1,
+            "CustomerId": "beth_penn",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 2005
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 348.0
+        },
+        {
+            "ReceiptId": 1814914667,
+            "CompletedBy": 1,
+            "CustomerId": "javier_perez",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 2029
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 780.0
+        },
+        {
+            "ReceiptId": -2034763826,
+            "CompletedBy": 1,
+            "CustomerId": "donna_martin",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 2031
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 558.25
+        },
+        {
+            "ReceiptId": 1165699020,
+            "CompletedBy": 1,
+            "CustomerId": "melissa_wood",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 2105
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 750.0
+        },
+        {
+            "ReceiptId": 120434355,
+            "CompletedBy": 1,
+            "CustomerId": "jessi_waters",
+            "CompletionTime": {
+                "elapsedDays": 59,
+                "time": 2355
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 1386.0
+        },
+        {
+            "ReceiptId": -1260445983,
+            "CompletedBy": 0,
+            "CustomerId": "genghis_barn",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 228
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 184.0
+        },
+        {
+            "ReceiptId": -1748977842,
+            "CompletedBy": 1,
+            "CustomerId": "philip_wentworth",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 400
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 780.0
+        },
+        {
+            "ReceiptId": -702507105,
+            "CompletedBy": 0,
+            "CustomerId": "ray_hoffman",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 752
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 2
+                }
+            ],
+            "AmountPaid": 2055.0
+        },
+        {
+            "ReceiptId": -1749202940,
+            "CompletedBy": 0,
+            "CustomerId": "jeremy_wilkinson",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 812
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 6
+                }
+            ],
+            "AmountPaid": 1325.0
+        },
+        {
+            "ReceiptId": -741762064,
+            "CompletedBy": 0,
+            "CustomerId": "dennis_kennedy",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 834
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                },
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 2
+                }
+            ],
+            "AmountPaid": 1325.0
+        },
+        {
+            "ReceiptId": 1140942389,
+            "CompletedBy": 1,
+            "CustomerId": "alison_knight",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 854
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 500.25
+        },
+        {
+            "ReceiptId": -212596509,
+            "CompletedBy": 0,
+            "CustomerId": "lily_turner",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 945
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                },
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 3
+                }
+            ],
+            "AmountPaid": 1670.0
+        },
+        {
+            "ReceiptId": -684129874,
+            "CompletedBy": 1,
+            "CustomerId": "kyle_cooley",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1216
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 751.75
+        },
+        {
+            "ReceiptId": 1970125128,
+            "CompletedBy": 1,
+            "CustomerId": "elizabeth_homley",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1222
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 574.0
+        },
+        {
+            "ReceiptId": 1082560291,
+            "CompletedBy": 0,
+            "CustomerId": "herbert_bleuball",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1337
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 2
+                }
+            ],
+            "AmountPaid": 2025.0
+        },
+        {
+            "ReceiptId": 1268721670,
+            "CompletedBy": 1,
+            "CustomerId": "sam_thompson",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1407
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 348.0
+        },
+        {
+            "ReceiptId": -1171111073,
+            "CompletedBy": 1,
+            "CustomerId": "eugene_buckley",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1510
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 422.5
+        },
+        {
+            "ReceiptId": -840105338,
+            "CompletedBy": 0,
+            "CustomerId": "jackie_stevenson",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1514
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 4
+                }
+            ],
+            "AmountPaid": 815.0
+        },
+        {
+            "ReceiptId": -609153077,
+            "CompletedBy": 1,
+            "CustomerId": "ludwig_meyer",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1541
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 587.25
+        },
+        {
+            "ReceiptId": 396560244,
+            "CompletedBy": 0,
+            "CustomerId": "michael_boog",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1547
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 2
+                }
+            ],
+            "AmountPaid": 2095.0
+        },
+        {
+            "ReceiptId": -1338770406,
+            "CompletedBy": 1,
+            "CustomerId": "chloe_bowers",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1609
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 348.0
+        },
+        {
+            "ReceiptId": -195867947,
+            "CompletedBy": 1,
+            "CustomerId": "pearl_moore",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1619
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 201.25
+        },
+        {
+            "ReceiptId": 2130057642,
+            "CompletedBy": 1,
+            "CustomerId": "lucy_pennington",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1634
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 422.5
+        },
+        {
+            "ReceiptId": -1745868233,
+            "CompletedBy": 1,
+            "CustomerId": "karen_kennedy",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1821
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 131.25
+        },
+        {
+            "ReceiptId": 678693880,
+            "CompletedBy": 1,
+            "CustomerId": "jerry_montero",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1831
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 798.25
+        },
+        {
+            "ReceiptId": 2016748665,
+            "CompletedBy": 0,
+            "CustomerId": "tobias_wentworth",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1832
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 10
+                }
+            ],
+            "AmountPaid": 2118.75
+        },
+        {
+            "ReceiptId": -1829042862,
+            "CompletedBy": 1,
+            "CustomerId": "kathy_henderson",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1843
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 790.5
+        },
+        {
+            "ReceiptId": -490789147,
+            "CompletedBy": 0,
+            "CustomerId": "harold_colt",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1928
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 7
+                }
+            ],
+            "AmountPaid": 1391.5
+        },
+        {
+            "ReceiptId": -591866715,
+            "CompletedBy": 1,
+            "CustomerId": "anna_chesterfield",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 1957
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 221.0
+        },
+        {
+            "ReceiptId": 1925824069,
+            "CompletedBy": 0,
+            "CustomerId": "geraldine_poon",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2015
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 1848.0
+        },
+        {
+            "ReceiptId": -1089743460,
+            "CompletedBy": 1,
+            "CustomerId": "javier_perez",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2016
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 656.5
+        },
+        {
+            "ReceiptId": -102977446,
+            "CompletedBy": 1,
+            "CustomerId": "beth_penn",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2041
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 348.0
+        },
+        {
+            "ReceiptId": -1931090931,
+            "CompletedBy": 1,
+            "CustomerId": "trent_sherman",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2104
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                },
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 594.0
+        },
+        {
+            "ReceiptId": -38235185,
+            "CompletedBy": 0,
+            "CustomerId": "billy_kramer",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2109
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 6
+                }
+            ],
+            "AmountPaid": 1372.5
+        },
+        {
+            "ReceiptId": 1175169682,
+            "CompletedBy": 1,
+            "CustomerId": "donna_martin",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2123
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 635.25
+        },
+        {
+            "ReceiptId": 253656805,
+            "CompletedBy": 1,
+            "CustomerId": "melissa_wood",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2137
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 757.5
+        },
+        {
+            "ReceiptId": -1221036815,
+            "CompletedBy": 0,
+            "CustomerId": "jeremy_wilkinson",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2146
+            },
+            "Items": [
+                {
+                    "String": "cocaine",
+                    "Int": 7
+                }
+            ],
+            "AmountPaid": 1498.5
+        },
+        {
+            "ReceiptId": 1062763699,
+            "CompletedBy": 1,
+            "CustomerId": "dean_webster",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2201
+            },
+            "Items": [],
+            "AmountPaid": 378.0
+        },
+        {
+            "ReceiptId": 296656758,
+            "CompletedBy": 1,
+            "CustomerId": "mick_lubbin",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2208
+            },
+            "Items": [],
+            "AmountPaid": 198.0
+        },
+        {
+            "ReceiptId": 1254395750,
+            "CompletedBy": 0,
+            "CustomerId": "carl_bundy",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2212
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                },
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 1434.0
+        },
+        {
+            "ReceiptId": -698507833,
+            "CompletedBy": 1,
+            "CustomerId": "jessi_waters",
+            "CompletionTime": {
+                "elapsedDays": 60,
+                "time": 2355
+            },
+            "Items": [
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                },
+                {
+                    "String": "fruitymonkey",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 1386.0
+        },
+        {
+            "ReceiptId": 1511142116,
+            "CompletedBy": 0,
+            "CustomerId": "ray_hoffman",
+            "CompletionTime": {
+                "elapsedDays": 61,
+                "time": 25
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 2
+                }
+            ],
+            "AmountPaid": 2514.0
+        },
+        {
+            "ReceiptId": -1728762707,
+            "CompletedBy": 0,
+            "CustomerId": "dennis_kennedy",
+            "CompletionTime": {
+                "elapsedDays": 61,
+                "time": 107
+            },
+            "Items": [
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                },
+                {
+                    "String": "blyadskayasuka",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 1350.0
+        }
+    ]
+}

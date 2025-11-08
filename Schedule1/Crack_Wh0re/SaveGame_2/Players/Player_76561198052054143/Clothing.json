@@ -1,0 +1,126 @@
+{
+    "Items": [
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"sandals\",\"Quantity\":1,\"Color\":26}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"jeans\",\"Quantity\":1,\"Color\":26}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"belt\",\"Quantity\":1,\"Color\":26}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"tshirt\",\"Quantity\":1,\"Color\":16}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"collarjacket\",\"Quantity\":1,\"Color\":26}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"goldchain\",\"Quantity\":1,\"Color\":13}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"legendsunglasses\",\"Quantity\":1,\"Color\":26}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"cowboyhat\",\"Quantity\":1,\"Color\":26}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"goldwatch\",\"Quantity\":1,\"Color\":13}"
+    ],
+    "SlotFilters": [
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "Type": 0,
+            "ItemIDs": [],
+            "AllowedQualities": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "DataType": "SewerData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.1f5",
+    "IsSewerUnlocked": true,
+    "IsRandomWorldKeyCollected": false,
+    "RandomSewerKeyLocationIndex": 20,
+    "HasSewerKingBeenDefeated": false,
+    "HoursSinceLastSewerGoblinAppearance": 132,
+    "RandomKeyPossessorIndex": 5,
+    "RandomKeyPossessorSet": true
+}

@@ -1,0 +1,149 @@
+{
+    "DataType": "VehicleCollectionData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.1f5",
+    "Vehicles": [
+        {
+            "DataType": "VehicleData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "GUID": "1e5c1e7c-a719-4979-9671-caee7696fdab",
+            "VehicleCode": "shitbox",
+            "Position": {
+                "x": 167.2817840576172,
+                "y": 0.9952548742294312,
+                "z": -5.493159294128418
+            },
+            "Rotation": {
+                "x": 0.03455825522542,
+                "y": 0.9967032074928284,
+                "z": -0.07335305958986283,
+                "w": -0.0027786451391875746
+            },
+            "Color": "DullRed",
+            "VehicleContents": {
+                "Items": [],
+                "SlotFilters": []
+            }
+        },
+        {
+            "DataType": "VehicleData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "GUID": "39a54b93-fc9a-47d4-82c9-195b9cb6bdc1",
+            "VehicleCode": "veeper",
+            "Position": {
+                "x": -74.5948257446289,
+                "y": -1.9559935331344605,
+                "z": -56.26354217529297
+            },
+            "Rotation": {
+                "x": -1.8203260765403685e-7,
+                "y": 0.8557703495025635,
+                "z": -5.848705200151016e-7,
+                "w": -0.5173559784889221
+            },
+            "Color": "White",
+            "VehicleContents": {
+                "Items": [],
+                "SlotFilters": []
+            }
+        },
+        {
+            "DataType": "VehicleData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "GUID": "e94bef3e-c4a3-402c-ab58-d816ba191bdc",
+            "VehicleCode": "dinkler",
+            "Position": {
+                "x": 170.77395629882813,
+                "y": 0.688465416431427,
+                "z": -9.922059059143067
+            },
+            "Rotation": {
+                "x": -0.005726853851228952,
+                "y": -0.6388381719589233,
+                "z": 0.031113505363464357,
+                "w": 0.7686904072761536
+            },
+            "Color": "White",
+            "VehicleContents": {
+                "Items": [],
+                "SlotFilters": []
+            }
+        },
+        {
+            "DataType": "VehicleData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "GUID": "78d5f7c4-d878-4eea-9790-55600be3b413",
+            "VehicleCode": "cheetah",
+            "Position": {
+                "x": 169.72073364257813,
+                "y": 0.6819329261779785,
+                "z": -13.79991626739502
+            },
+            "Rotation": {
+                "x": -0.0002986588515341282,
+                "y": 0.7584095597267151,
+                "z": 0.002848569303750992,
+                "w": 0.6517720222473145
+            },
+            "Color": "Black",
+            "VehicleContents": {
+                "Items": [
+                    "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"blyadskayasuka\",\"Quantity\":18,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+                    "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"blyadskayasuka\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "DataType": "PropertyData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.1f5",
+    "PropertyCode": "sweatshop",
+    "IsOwned": true,
+    "SwitchStates": [
+        true
+    ],
+    "ToggleableStates": [
+        true,
+        false
+    ],
+    "Employees": [],
+    "Objects": [
+        {
+            "DataType": "SurfaceItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "BaseData": "{\"DataType\":\"SurfaceItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"GUID\":\"86a01481-4770-400b-9872-af47f470f86c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.1f5\\\",\\n    \\\"ID\\\": \\\"wallclock\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":25,\"ParentSurfaceGUID\":\"6e553416-6d23-4f09-8b1e-1689b15bef96\",\"RelativePosition\":{\"x\":-0.5873880386352539,\"y\":2.500000238418579,\"z\":2.576265573501587},\"RelativeRotation\":{\"x\":0.7071070075035095,\"y\":0.0,\"z\":0.0,\"w\":0.7071065306663513}}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "LabelledSurfaceItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "BaseData": "{\"DataType\":\"LabelledSurfaceItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"GUID\":\"b9653e08-7f1b-4949-824c-680039e6512e\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.1f5\\\",\\n    \\\"ID\\\": \\\"woodensign\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"ParentSurfaceGUID\":\"401780e5-d032-41b2-ab6c-4a466dbc9b23\",\"RelativePosition\":{\"x\":3.0000076293945314,\"y\":-1.7530856132507325,\"z\":2.6201767921447756},\"RelativeRotation\":{\"x\":0.5476362705230713,\"y\":-0.4746331572532654,\"z\":-0.4746331572532654,\"w\":0.4995410144329071},\"Message\":\"ЭЛЬДАР СОСАТЬ\"}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "LabelledSurfaceItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "BaseData": "{\"DataType\":\"LabelledSurfaceItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.1f5\",\"GUID\":\"dcebb5a9-a00b-4767-b636-a3d74f77ebd2\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.1f5\\\",\\n    \\\"ID\\\": \\\"woodensign\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"ParentSurfaceGUID\":\"401780e5-d032-41b2-ab6c-4a466dbc9b23\",\"RelativePosition\":{\"x\":2.999994993209839,\"y\":4.522472381591797,\"z\":1.8966526985168458},\"RelativeRotation\":{\"x\":0.5476362705230713,\"y\":-0.4746331572532654,\"z\":-0.4746331572532654,\"w\":0.4995410144329071},\"Message\":\"НЮХАЙ БЕБРУ\"}",
+            "AdditionalDatas": []
+        }
+    ]
+}

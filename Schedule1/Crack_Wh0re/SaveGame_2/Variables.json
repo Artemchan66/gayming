@@ -1,0 +1,273 @@
+{
+    "DataType": "VariableCollectionData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.1f5",
+    "Variables": [
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Completed_Contracts_Count",
+            "Value": "1292"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Days_Since_Tutorial_Completed",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Loan_Sharks_Arrived",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Hours_Since_LoanSharks_Arrived",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Hours_Since_Cartel_Handover",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Hours_Until_CartelContract_Due",
+            "Value": "168"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Mins_Since_First_Plants_Done",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "HarvestedPlantCount",
+            "Value": "152"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "PackagedProductCount",
+            "Value": "2166"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "SownSeedsCount",
+            "Value": "138"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "WateredPotsCount",
+            "Value": "111"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "SuccessfulSampleCount",
+            "Value": "51"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Deaddrops_Ordered",
+            "Value": "10"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "ListedProductsCount",
+            "Value": "2"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Benji_CompletedDealCount",
+            "Value": "351"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "ContainedTrashItems",
+            "Value": "588"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "TrashContainersBagged",
+            "Value": "18"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Mixing_Operations_Started",
+            "Value": "145"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Mixing_Operations_Completed",
+            "Value": "1194"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Chemical_Operations_Started",
+            "Value": "24"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Chemical_Operations_Completed",
+            "Value": "198"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Oven_Cooks_Completed",
+            "Value": "21"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "Mixing_Operations_Collected",
+            "Value": "1236"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "SampleRejectionCount",
+            "Value": "32"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "SecondUniqueProductDiscovered",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "RunGameHighScore",
+            "Value": "2733.909"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "RayIntroSent",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "LaunderingOperationsStarted",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "LaunderingOperationsCompleted",
+            "Value": "60"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "WarehouseUnlocked",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "ShirleyDeaddropOrders",
+            "Value": "5"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "ClipboardAcquired",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "LifetimeEmployeesRecruited",
+            "Value": "7"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "SprayPaintsPurchased",
+            "Value": "37"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "chemistrystation_acquired",
+            "Value": "3"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "laboven_acquired",
+            "Value": "4"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "acid_acquired",
+            "Value": "135"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.1f5",
+            "Name": "phosphorus_acquired",
+            "Value": "195"
+        }
+    ]
+}
